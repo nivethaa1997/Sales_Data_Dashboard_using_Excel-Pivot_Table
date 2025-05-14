@@ -5,10 +5,10 @@
 
 ## Interactive Dashboard
 
-![Screenshot of a dashboard.](https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/nivethaa1997/Sales_Data_Dashboard_using_Excel-Pivot_Table/blob/main/Dashboard_image1.png)
+![Screenshot of a dashboard.](https://github.com/nivethaa1997/Sales_Data_Dashboard_using_Excel-Pivot_Table/blob/main/Dashboard_image1.png)
 
-![Screenshot of a dashboard.](https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/nivethaa1997/Sales_Data_Dashboard_using_Excel-Pivot_Table/blob/main/Dashboard_image2.png)
+![Screenshot of a dashboard.](https://github.com/nivethaa1997/Sales_Data_Dashboard_using_Excel-Pivot_Table/blob/main/Dashboard_image2.png)
 
-![Screenshot of a dashboard.](https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/nivethaa1997/Sales_Data_Dashboard_using_Excel-Pivot_Table/blob/main/Dashboard_image3.png)
+![Screenshot of a dashboard.](https://github.com/nivethaa1997/Sales_Data_Dashboard_using_Excel-Pivot_Table/blob/main/Dashboard_image3.png)
 
-![Screenshot of a dashboard.](https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/nivethaa1997/Sales_Data_Dashboard_using_Excel-Pivot_Table/blob/main/Dashboard_image4.png)
+![Screenshot of a dashboard.](https://github.com/nivethaa1997/Sales_Data_Dashboard_using_Excel-Pivot_Table/blob/main/Dashboard_image4.png)
