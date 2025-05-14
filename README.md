@@ -1,5 +1,5 @@
 # Sales Data Dashboard using Excel (Pivot Table)
--The main objective of this project is to analyse the sales data and provide recommendations based on the analysis. The data used for this project is sourced from kaggle. It is a sample dataset which contains 43743 records. It contains sales data of motorcycles between the years 2003 and 2005. It includes details like Product Code, Unit Price, Country, State, Territory, Number of units sold, etc. 
+The main objective of this project is to analyse the sales data and provide recommendations based on the analysis. The data used for this project is sourced from kaggle. It is a sample dataset which contains 43743 records. It contains sales data of motorcycles between the years 2003 and 2005. It includes details like Product Code, Unit Price, Country, State, Territory, Number of units sold, etc. 
 
 ### Dataset used
 <a href="https://www.kaggle.com/datasets/kyanyoga/sample-sales-data">View Dataset</a>
