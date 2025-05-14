@@ -1,8 +1,8 @@
 # Sales Data Dashboard using Excel (Pivot Table)
-<p align="justify">The main objective of this project is to analyse the sales data and provide recommendations based on the analysis. The data used for this project is sourced from kaggle. It is a sample dataset which contains 43743 records. It contains sales data of motorcycles between the years 2003 and 2005. It includes details like Product Code, Unit Price, Country, State, Territory, Number of units sold, etc.</p>
+<p align="justify">The main objective of this project is to analyse the sales data and provide recommendations based on the analysis. </p>
 
-### Dataset used
-<a href="https://www.kaggle.com/datasets/kyanyoga/sample-sales-data">View Dataset</a>
+### Dataset Description
+<p align="justify">The data used for this project is sourced from kaggle. It is a sample dataset which contains 43743 records. It contains sales data of motorcycles between the years 2003 and 2005. It includes details like Product Code, Unit Price, Country, State, Territory, Number of units sold, etc. <a href="https://www.kaggle.com/datasets/kyanyoga/sample-sales-data">View Dataset</a></p>
 
 ### Analysis 
 <p align="justify">The data is analysed based on years and country. A pie chart is used to represent the proportion of sales in each country based on Territory and a line chart is used to represent the variation in sales over the years. In addition, for each territory a table is used to represent the numbers based on product quantity and category.</p>
